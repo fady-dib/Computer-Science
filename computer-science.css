@@ -1,0 +1,37 @@
+body {
+    margin: 40px 40px 40px 40px;
+    background-color: rgb(126, 187, 228);
+}
+
+h1 {
+    display:inline;
+    text-decoration: underline;
+    margin-left: 120px;
+    vertical-align: top;
+    
+}
+
+.image1{
+    width: 200px
+}
+
+.image2{
+    width: 230px;
+    height: 133px;
+    float: right
+}
+
+.text{
+    text-align: justify;
+    background-color: rgb(240, 237, 204);
+    padding: 2px 10px 2px 10px
+    
+}
+
+.References{
+    text-decoration: underline;
+}
+
+.link{
+    display: block
+}
